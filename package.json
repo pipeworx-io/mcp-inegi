@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-inegi",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "INEGI MCP — Mexico's national statistics office (INEGI) Indicators API.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-993bff780e5e13da091ded9bc356da4a1d3bead1dbdb69592ad5beec215225a9",
-    "sourceCommit": "70cd53748fc9f9a43ed3681d751bfa96e701efd2"
+    "sourceHash": "v1-28c1f45066f2cf707934b8122ffb78b011fe21def3abc24385926d5210fd61eb",
+    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
   }
 }
